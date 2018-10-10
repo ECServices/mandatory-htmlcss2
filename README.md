@@ -1,2 +1,2 @@
-# mandatory-htmlcss2-
+# mandatory-htmlcss2
 Labb 2
